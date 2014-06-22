@@ -3,7 +3,7 @@ function [ output_args ] = RecentEQData( input_args )
 %   Detailed explanation goes here
 clear all;
 % 主要用来绘制最近几年的地震曲线图：时间，震级和经纬度
-    [dmatrix,date] = xlsread('EQ Data.xls','1973-2013（28 33-102 109）','a1:d166');
+    [dmatrix,date] = xlsread('EQ_Data.xls','1973-2013（28 33-102 109）','a1:d166');
     % 这里涉及到时间处理函数（每个函数的性能不一致，需要根据profile进行跟踪测试）
     % datestr(转换成指定格式的时间字符串) datenum（转换成数字） datevec（转换成向量）
     % http://zhiqiang.org/blog/it/datestr-datenum-efficiency-in-matlab.html
