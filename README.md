@@ -6,10 +6,10 @@ earthquake statistic of longmen mountain seismic belt
 # Earthquake
 
 ## eq-magnitude
-![file-list](https://github.com/coodoing/earthquake-statistic/blob/master/img/eq-magnitude.jpg)
+![file-list](https://raw.githubusercontent.com/coodoing/earthquake-statistic/master/img/eq-magnitude.jpg)
 
 ## eq-distribution
-![file-list](https://github.com/coodoing/earthquake-statistic/blob/master/img/eq-distribution.jpg)
+![file-list](https://raw.githubusercontent.com/coodoing/earthquake-statistic/master/img/eq-distribution.jpg)
 
 # Reference
 
